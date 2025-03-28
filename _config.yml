@@ -1,11 +1,11 @@
-# basic headers
+# basic details
 title: Test blog with Jekyll
 author: Alexis Gillett
-email: # leaving blank for now
+email: alexisjgillett@gmail.com
 description: Trial blog using GitHub pages.
 
 # social links
-twitter_username: AlexisJGillett
+bsky_username: alexisgillett
 github_username:  ajg54
 
 # other settings
