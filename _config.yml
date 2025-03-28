@@ -13,3 +13,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
 plugins:
  - jekyll-feed
+exclude: [_posts/archive/]
